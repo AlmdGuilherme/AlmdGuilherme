@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://almdguilherme.github.io/portfolio-2dsm/assets/profile-pic.FpJpM7mb.jpg"  />
-</div>
-
 ###
 
 <h1 align="center">Guilherme Almeida</h1>
