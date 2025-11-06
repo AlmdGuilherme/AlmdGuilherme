@@ -15,7 +15,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" height="50" alt="AWS"  />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="50" alt="HTML"  />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="50" alt="CSS-Logo"  />
