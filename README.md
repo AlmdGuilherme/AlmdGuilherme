@@ -1,5 +1,3 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/7cf65747-9743-4b23-95c5-bec8b75093c6" />###
-
 <h1 align="center">Guilherme Almeida</h1>
 
 ###
@@ -17,9 +15,9 @@
 
 <div align="center">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
+  <img width="15" />
 </div>
 
 ###
