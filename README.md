@@ -1,9 +1,4 @@
-<h1 align="center">Guilherme Almeida</h1>
-
-###
-
-<p align="left">Olá, me chamo Guilherme Almeida!<br>Comecei minha jornada na área de t.i no Ensino Médio Técnico, onde tive contato com o básico da programação, HTML, CSS e JavaScript. Porém, tive muito interesse na área e através de cursos busco aprender e aprimorar minhas habilidades. Por meio da One Bit Code, atualmente estudo para me tornar um Desenvolvedor FullStack e Desenvolvedor Python, além dos cursos, também estou cursando Desenvolvimento de Software Multiplataforma na FATEC-SJC.</p>
-
+<h1 align="left">Guilherme Almeida</h1>
 ###
 
 <div align="center">
@@ -14,10 +9,9 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" height="40" alt="html5 logo"  />
-  <img width="15" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" height="50" alt="AWS-Logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" height="50" alt="Bootstrap-Logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="50" alt="CSS-Logo"  />
 </div>
 
 ###
