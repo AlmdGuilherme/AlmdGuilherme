@@ -53,10 +53,12 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" height="40" alt="Tailwind"  />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" height="40" alt="MongoDB"  />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="40" alt="MySQL"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg" height="40" alt="Redis"  />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Supabase-Dark.svg" height="40" alt="Supabase"  />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" height="40" alt="Figma"  />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg" height="40" alt="IntelliJ"  />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="40" alt="Git"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vercel-Dark.svg" height="40" alt="Vercel"  />
 </div>
 <h2>📫 Vamos nos conectar?</h2>
 <p align="left">
