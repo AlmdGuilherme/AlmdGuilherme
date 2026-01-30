@@ -75,8 +75,8 @@
 
 <h2>🚀 Atividade e Contribuições </h2>
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almdguilherme&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almdguilherme&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almdguilherme&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almdguilherme&layout=compact&langs_count=7"/>
 </p>
 <p align="left">
 <picture>
