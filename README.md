@@ -10,16 +10,6 @@
     </h3>
   </li>
   <li>
-    <h3> 
-      📖 Em Especialização: Atualmente focado em três frentes de estudo para consolidar minha base técnica:
-    </h3>
-    <ul> 
-      <li>Desenvolvimento Full Stack: Construindo a visão completa de aplicações web.</li>
-      <li>Linguagem Python: Explorando automação e lógica de programação.</li>
-      <li>Linguagem Java: Aprofundando em orientação a objetos e robustez de sistemas.</li>
-    </ul>
-  </li>
-  <li>
     <h3>
       🤝 Perfil Colaborativo: Sou um desenvolvedor que valoriza muito a troca de conhecimentos. Acredito que o trabalho em equipe e a colaboração são as chaves para entregar soluções de alto impacto.
     </h3>
