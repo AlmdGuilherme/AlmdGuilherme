@@ -1,59 +1,81 @@
-<h2>👋 Oi, sou Guilherme Almeida! Sou desenvolvedor Full Stack</h2>
+<h2> Oi, sou Guilherme Almeida! Sou desenvolvedor Full Stack</h2>
 
 <p>Sou um entusiasta da tecnologia com uma jornada que une a lógica do código à paixão por aprender e aprimorar cada detalhe, do front-end ao back-end. Acredito que o desenvolvimento de software é um aprendizado contínuo, e busco constantemente evoluir tanto como profissional quanto como pessoa.</p>
 
-<h2>🚀 Sobre Mim</h2>
+<h2> Sobre Mim</h2>
 <ul>
   <li>
-    <h3> 
-      🎓 Formação: Atualmente cursando Desenvolvimento de Software Multiplataforma na Fatec-SJC.
-    </h3>
+    <b>Formação:</b> Atualmente cursando Desenvolvimento de Software Multiplataforma na Fatec-SJC.
   </li>
   <li>
-    <h3>
-      🤝 Perfil Colaborativo: Sou um desenvolvedor que valoriza muito a troca de conhecimentos. Acredito que o trabalho em equipe e a colaboração são as chaves para entregar soluções de alto impacto.
-    </h3>
+    <b>Perfil Colaborativo:</b> Sou um desenvolvedor que valoriza muito a troca de conhecimentos. Acredito que o trabalho em equipe e a colaboração são as chaves para entregar soluções de alto impacto.
   </li>
   <li>
-    <h3>
-      🎯 Objetivo: Minha prioridade é o aprimoramento constante das minhas habilidades técnicas e interpessoais, buscando sempre a melhor versão em cada linha de código.
-    </h3>
+    <b>Objetivo:</b> Minha prioridade é o aprimoramento constante das minhas habilidades técnicas e interpessoais, buscando sempre a melhor versão em cada linha de código.
   </li>
 </ul>
-<h2>
-  🛠 Tecnologias e Ferramentas
-</h2>
+
+<h2> Tecnologias e Ferramentas</h2>
 <div align="left">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" height="40" alt="AWS"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="40" alt="HTML"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="40" alt="CSS-Logo"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" height="40" alt="Sass"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="40" alt="JavaScript"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" height="40" alt="TypeScript"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" height="40" alt="Python"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" height="40" alt="Java"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" height="40" alt="Node.js"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" height="40" alt="React"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" height="40" alt="Vite"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" height="40" alt="Next.js"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" height="40" alt="Spring"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" height="40" alt="Express"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" height="40" alt="Flask"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" height="40" alt="Bootstrap"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" height="40" alt="Tailwind"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" height="40" alt="MongoDB"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="40" alt="MySQL"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg" height="40" alt="Redis"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Supabase-Dark.svg" height="40" alt="Supabase"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" height="40" alt="Figma"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg" height="40" alt="IntelliJ"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="40" alt="Git"  />
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vercel-Dark.svg" height="40" alt="Vercel"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" height="40" alt="AWS" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="40" alt="HTML" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="40" alt="CSS" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" height="40" alt="Sass" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="40" alt="JavaScript" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" height="40" alt="TypeScript" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" height="40" alt="React" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" height="40" alt="Next.js" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" height="40" alt="Vite" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" height="40" alt="Bootstrap" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" height="40" alt="Tailwind" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Dart-Dark.svg" height="40" alt="Dart" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flutter-Dark.svg" height="40" alt="Flutter" />
+  <br/><br/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" height="40" alt="Node.js" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" height="40" alt="Express" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" height="40" alt="Java" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg" height="40" alt="Spring" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" height="40" alt="Python" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" height="40" alt="Flask" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" height="40" alt="MongoDB" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="40" alt="MySQL" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg" height="40" alt="Redis" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Supabase-Dark.svg" height="40" alt="Supabase" />
+  <br/><br/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" height="40" alt="Figma" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg" height="40" alt="IntelliJ" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="40" alt="Git" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vercel-Dark.svg" height="40" alt="Vercel" />
 </div>
-<h2>📫 Vamos nos conectar?</h2>
+
+<h2> Projetos em Destaque</h2>
+
+<ul>
+  <li>
+    <h3>Task Manager - GSW</h3>
+    <p>Desenvolvimento de uma Plataforma de Gestão de Tarefas e Colaboração para a parceira GSW. O projeto visa otimizar o fluxo de trabalho das equipes, indo além de um simples organizador. A solução integra controle de prioridades, visualização de prazos via calendário, inclusão de anexos para comprovantes e atribuição de responsabilidades em uma interface totalmente responsiva. Além disso, conta com um sistema de autenticação próprio para garantir a segurança e autonomia dos usuários.</p>
+    <p>
+      <a href="https://github.com/the-devs-department/GSW-2025.2-3Sem" target="_blank">
+        <img src="https://img.shields.io/badge/Repositório-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório GitHub">
+      </a>
+    </p>
+  </li>
+  <br/>
+  <li>
+    <h3>Coleta de Dados (IoT) - Tecsus</h3>
+    <p>Desenvolvimento de uma plataforma de monitoramento meteorológico baseada em IoT, criada em parceria com a Tecsus para atender às necessidades de ONGs e Associações de Bairro. A solução integra estações meteorológicas de baixo custo para coleta, processamento e visualização remota de dados climáticos, como temperatura, velocidade do vento e índices pluviométricos. O projeto tem como objetivo monitorar microclimas, apoiar ações de prevenção a queimadas e ampliar o acesso a informações ambientais em comunidades remotas. Com foco em eficiência operacional, escalabilidade e facilidade de manutenção, a plataforma oferece uma alternativa acessível para a gestão e o acompanhamento de condições climáticas em tempo real.</p>
+    <p>
+      <a href="https://gitlab.com/the-devs6675810/api-4-sem-tecsus" target="_blank">
+        <img src="https://img.shields.io/badge/Repositório-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Repositório GitLab">
+      </a>
+    </p>
+  </li>
+</ul>
+
+<h2> Vamos nos conectar?</h2>
 <p align="left">
   <a href="https://dev-guilherme-almeida.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/guilherme-almeida-profile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -63,15 +85,15 @@
   </a>
 </p>
 
-<h2>🚀 Atividade e Contribuições </h2>
+<h2> Atividade e Contribuições </h2>
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almdguilherme&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almdguilherme&layout=compact&langs_count=7&theme=dark"/>
 </p>
 <p align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlmdGuilherme/AlmdGuilherme/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlmdGuilherme/AlmdGuilherme/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlmdGuilherme/AlmdGuilherme/output/pacman-contribution-graph.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlmdGuilherme/AlmdGuilherme/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlmdGuilherme/AlmdGuilherme/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlmdGuilherme/AlmdGuilherme/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
